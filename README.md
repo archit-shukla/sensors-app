@@ -23,4 +23,5 @@ This Android application is designed for testing sensors such as accelerometer,g
 4. Navigate through the app's interface to test accelerometer and gyroscope sensors.
 
 ## App Screenshots
+![Biometric Page] (images/Screenshot_20240407_050123.png)
 

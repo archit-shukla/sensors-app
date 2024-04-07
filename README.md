@@ -20,8 +20,12 @@ This Android application is designed for testing sensors such as accelerometer,g
 1. Clone the repository to your local machine.
 2. Open the project in Android Studio.
 3. Build and run the app on an Android device or emulator.
-4. Navigate through the app's interface to test accelerometer and gyroscope sensors.
+4. Navigate through the app's interface to test the sensors.
 
 ## App Screenshots
-![Biometric Page] (images/Screenshot_20240407_050123.png)
+![Biometric Page](images/Screenshot_20240407_050123.png)
+![Home Page]()
+![Step counter]()
+![Light sensor]()
+
 

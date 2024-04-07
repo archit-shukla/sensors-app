@@ -1,11 +1,16 @@
 # Sensor Testing Android App
 
-This Android application is designed for testing sensors such as accelerometer and gyroscope in mobile devices. The app is developed using Android Studio and showcases proficiency in sensor testing and Android app development.
+This Android application is designed for testing sensors such as accelerometer,gyroscope etc. in mobile devices. The app is developed using Android Studio to showcase sensor testing and Android app development.
 
 ## Features
 
-- Test accelerometer sensor functionality.
 - Test gyroscope sensor functionality.
+- Test magnetometer sensor functionality.
+- Test Gravity sensor functionality.
+- Test Proximity sensor functionality.
+- Test light sensor by creating a feature which dims the brightness according to the light in the room.
+- Test accelerometer sensor by creating a feature which counts steps.
+- Test Biometric systems by unlocking the application on the home page.
 - User-friendly interface for sensor testing.
 - Real-time sensor data visualization.
 - Compatibility with a wide range of Android devices.
@@ -18,4 +23,4 @@ This Android application is designed for testing sensors such as accelerometer a
 4. Navigate through the app's interface to test accelerometer and gyroscope sensors.
 
 ## App Screenshots
-\
+

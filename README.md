@@ -23,7 +23,7 @@ This Android application is designed for testing sensors such as accelerometer,g
 4. Navigate through the app's interface to test the sensors.
 
 ## App Screenshots
-![Biometric Page](images/Screenshot_20240407_050123.png)
+<img src="images/Screenshot_20240407_050123.png" width="300" alt="Biometrics Page">
 ![Home Page]()
 ![Step counter]()
 ![Light sensor]()

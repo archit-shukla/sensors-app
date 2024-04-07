@@ -24,8 +24,9 @@ This Android application is designed for testing sensors such as accelerometer,g
 
 ## App Screenshots
 <img src="images/Screenshot_20240407_050123.png" width="300" alt="Biometrics Page">
-![Home Page]()
-![Step counter]()
-![Light sensor]()
+<img src="images/Screenshot_20240407_050123.png" width="300" alt="Home Page">
+<img src="images/Screenshot_20240407_050123.png" width="300" alt="Step Counter">
+<img src="images/Screenshot_20240407_050123.png" width="300" alt="Light sensor">
+
 
 

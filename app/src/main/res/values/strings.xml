@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Sensors</string>
+    <string name="youtube_com_watch_v_weuzdgkdngk_t_285s"><![CDATA[youtube.com/watch?v=wEuzdgKDngk&t=285s]]></string>
+    <string name="https_developer_android_com_jetpack_androidx_releases_biometric_declaring_dependencies">https://developer.android.com/jetpack/androidx/releases/biometric#declaring_dependencies</string>
+    <string name="https_www_youtube_com_watch_v_lswjipo4knk_t_160s"><![CDATA[https://www.youtube.com/watch?v=LsWJipo4knk&t=160s]]></string>
+    <string name="https_www_youtube_com_watch_v_weuzdgkdngk_t_10s"><![CDATA[https://www.youtube.com/watch?v=wEuzdgKDngk&t=10s]]></string>
+    <string name="square">\u00B2</string>
+    <string name="micro">\u00B5</string>
+    <string name="https_www_youtube_com_watch_v_r_1kmtur4qg_t_1s"><![CDATA[https://www.youtube.com/watch?v=R-1kMtuR4Qg&t=1s]]></string>
+    <string name="https_www_youtube_com_watch_v_lswjipo4knk_t_161s"><![CDATA[https://www.youtube.com/watch?v=LsWJipo4knk&t=161s]]></string>
+</resources>
